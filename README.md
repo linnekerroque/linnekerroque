@@ -1,6 +1,6 @@
 ### Hello 👋, I am Linneker Roque.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Angular, React, Nodejs
+- 🔭 I’m currently working on 5 Companies on Brazil.
+- 🌱 I’m currently learning NodeJS.
 - 📫 How to reach me: linneker@outlook.com
